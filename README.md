@@ -24,7 +24,7 @@ I am a Software Engineer with 3 years of experience in the development and imple
 - **SSLC:** DMNS Sivanthi Aditanar Higher Secondary School (2015) with 96%.
 
 ### 💼 Work Experience
-**System Engineer at TATA Consultancy Services (TCS)**  
+**Systems Engineer at TATA Consultancy Services (TCS)**  
 *February 2022 - Present*  
 - Involved in the implementation and enhancement of TCS Bancs, a comprehensive banking software solution.
 - Worked extensively on developing business logic, gathering user requirements, validating data, and collaborating with cross-functional teams to deliver solutions.
@@ -36,4 +36,5 @@ I am a Software Engineer with 3 years of experience in the development and imple
 - Preparing for FAANG-level coding interviews, focusing on Data Structures and Algorithms
 ### 🌐 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/thangakani-r-1006601b4
+- **HackerRank:** https://www.hackerrank.com/profile/thangakani1113
 
