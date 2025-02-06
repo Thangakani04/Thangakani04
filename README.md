@@ -33,7 +33,7 @@ I am a Software Engineer with 3 years of experience in the development and imple
 
 ### 📚 Currently Exploring
 - Advanced Spring Boot features for building cloud-based applications
-- Preparing for FAANG-level coding interviews, focusing on Data Structures and Algorithms
+- Preparing for coding interviews at top tech companies, focusing on Data Structures and Algorithms
 ### 🌐 Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/thangakani-r-1006601b4
 - **HackerRank:** https://www.hackerrank.com/profile/thangakani1113
