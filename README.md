@@ -40,7 +40,7 @@ I am a Software Engineer with 3.6+ years of experience in the development and im
 - **SSLC:** DMNS Sivanthi Aditanar Higher Secondary School (2015) with 96%.
 
 ### 💼 Work Experience
-**Consultant at Capgemini**  **July 2025 - Present**
+**Consultant at Capgemini**  (**July 2025 - Present**)
 **Project**	: Voice services (Telecommunication domain) Technologies & Tools	: Java 8, Spring Boot, Microservices, Maven, Git-lab , Rabbit MQ, Jenkins ,Junit5 , SonarQube ,JIRA  
 **Database**	: MySQL
 **Description**	: The project involved developing a scalable and secure backend system for a leading global telecom provider using Spring Boot microservices and Java 8. The system supports enterprise-level communication services, with seamless integration of RabbitMQ for asynchronous messaging. The solution is designed with clean architecture and ensuring high maintainability and performance across multiple microservices.
@@ -55,7 +55,7 @@ I am a Software Engineer with 3.6+ years of experience in the development and im
 •	Integrated SonarQube into Jenkins CI/CD  pipelines to enforce code quality, detect vulnerabilities, and maintain clean, secure code
 •	Responsible for Developing high quality, secure, scalable software solutions based on the technical requirement specifications.
 
-**Systems Engineer at TATA Consultancy Services (TCS)**  **February 2022 - July 2025** 
+**Systems Engineer at TATA Consultancy Services (TCS)**  (**February 2022 - July 2025**) 
 
 **Project** 	: TCS Bancs Project- Clearstream Banking Luxembourg
 **Technologies**	: Java, Spring boot , Hibernate , REST APIs ,  Apache Kafka , Junit5 and Mockito  ,JIRA
