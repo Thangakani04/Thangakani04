@@ -39,14 +39,14 @@ I am a Software Engineer with 3.6+ years of experience in the development and im
 
    **Academic Projects:**
 
-    🔹 **Stress Modeling and Prediction using Support Vector Machine Algorithm**
+    🔹 **Stress Modeling and Prediction using Support Vector Machine Algorithm** : 
         **Technologies**: Python, Machine Learning
-        **Description:** Developed a system to predict stress levels using Support Vector Machine. Based on predictions, personalized suggestions were provided to help
+        **Description**: Developed a system to predict stress levels using Support Vector Machine. Based on predictions, personalized suggestions were provided to help
           individuals manage stress — especially useful for those dealing with emotional and mental health issues. (Final Year Project)
 
-   🔹 **Ancient Flavours – Recipe Book Website**
+   🔹 **Ancient Flavours – Recipe Book Website** :
         **Technologies**: PHP, HTML, CSS
-        **Description:** Built a website to promote traditional, home-cooked meals and educate users on their health benefits for the body and mind. (Pre-Final Year Project).
+        **Description**: Built a website to promote traditional, home-cooked meals and educate users on their health benefits for the body and mind. (Pre-Final Year Project).
 
 
 - **HSC:** DMNS Sivanthi Aditanar Higher Secondary School (2017) with 93%.
