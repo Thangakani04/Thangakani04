@@ -27,7 +27,7 @@ I am a Software Engineer with 3.6+ years of experience in the development and im
         •	Familiar in designing and implementing API gateways using design patterns
         •	Experience in writing unit test cases using Junit, Mockito
         •	Experience in writing SQL queries for development and testing purposes
-        •	Proficient in version control tools such as Git & GitHub including branching, merging
+        •	Proficient in version control tools such as Git & GitHub including branching, merging and stashing changes
         •	Experience of working in an Agile Scrum environment on all phases of SDLC
         •	Worked closely with QA teams to identify and resolve bugs, improving overall application stability
         •	Collaborated with senior developers to enhance coding skills and understanding of best practices
