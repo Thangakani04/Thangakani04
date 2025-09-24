@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Thangakani Rajan
 
 ### 🎯 About Me
-I am a Software Engineer with 3.6+ years of experience in the development and implementation of end-to-end software solutions for market infrastructure. I specialize in using Java, SQL, Spring Boot and Microservices to build high-performance, fault-tolerant, and distributed applications. My work revolves around ensuring efficient and scalable solutions with a keen focus on database management, security, and optimization.
+I am a Software Engineer with 3.7+ years of experience in the development and implementation of end-to-end software solutions for market infrastructure. I specialize in using Java, SQL, Spring Boot and Microservices to build high-performance, fault-tolerant, and distributed applications. My work revolves around ensuring efficient and scalable solutions with a keen focus on database management, security, and optimization.
 
 ### 🚀 Key Skills & Technologies
 - **Programming Languages:** Java, SQL, and basic HTML
